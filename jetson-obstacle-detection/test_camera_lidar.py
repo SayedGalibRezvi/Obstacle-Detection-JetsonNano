@@ -1,0 +1,1 @@
+# Placeholder for test_camera_lidar.py
