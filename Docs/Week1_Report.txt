@@ -1,0 +1,15 @@
+DOCUMENTATION - PHASE 1
+
+Project: Obstacle Detection using Jetson Nano + RPLIDAR + Camera
+
+Progress:
+1. Successfully connected RPLIDAR to Jetson Nano
+2. Verified spin via ultra_simple.cpp
+3. Read angle and distance via read_lidar.py
+4. Attempted live 2D visualization via matplotlib (plot not working)
+5. LIDAR tested on serial port /dev/ttyUSB0 with baudrate 256000
+
+Next:
+- Debug live plot refresh
+- Integrate obstacle detection logic
+- Add camera stream overlay
